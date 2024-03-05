@@ -1,4 +1,4 @@
-//«XÃ¹´µ¤è¶ô 
+//Tetris
 #include<iostream>
 using namespace std;
 int main(){
