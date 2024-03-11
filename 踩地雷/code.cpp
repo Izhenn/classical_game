@@ -2,7 +2,7 @@
 #include<iostream>
 #include<stdlib.h>
 #include<time.h>
-#include"Minesweeper.h" 
+//#include"Minesweeper.h" 
 using namespace std;
 void generaterand(){
 	temp[0]=rand()%10+1;
